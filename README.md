@@ -7,6 +7,7 @@ Eu sou o Paulo Roberto, sou um Programador Front End, atualmente estou aprendend
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />
 - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github-logo" />
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" />
+- <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva-logo" />
 [![Paulo Roberto stats](https://github-readme-stats.vercel.app/api?username=pauloclares88)](https://github.com/anuraghazra/github-readme-stats)
 
 
